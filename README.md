@@ -1,3 +1,12 @@
+
+
+
+Example work
+https://github.com/user-attachments/assets/f79d7b33-e7a6-4078-bd1f-599cf600fc68
+
+
+
+
 # 🐉 AI Orchestration Crew — Claudey + 3 DeepSeek Agents
 
 A small multi-agent orchestration setup. **You** are the controller. **Claudey**
